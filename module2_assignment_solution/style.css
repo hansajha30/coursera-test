@@ -63,17 +63,17 @@ p1{
 {
 	#para1
 	{
-		width:50%;
+		width:40%;
 		float:left;
 	}
 	#para2
 	{
-		width:50%;
+		width:40%;
 		float:left;
 	}
 	#para3
 	{
-		width:100%;
+		width:80%;
 		float:left;
 	}
 
@@ -83,15 +83,15 @@ p1{
 {
 	#para1
 	{
-		width:100%;
+		width:80%;
 	}
 	#para2
 	{
-		width:100%;
+		width:80%;
 	}
 	#para3
 	{
-		width:100%;
+		width:80%;
 	}
 
 }</style>
