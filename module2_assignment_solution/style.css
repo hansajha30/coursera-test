@@ -64,14 +64,17 @@ p1{
 	#para1
 	{
 		width:50%;
+		float:left;
 	}
 	#para2
 	{
 		width:50%;
+		float:left;
 	}
 	#para3
 	{
 		width:100%;
+		float:left;
 	}
 
 
