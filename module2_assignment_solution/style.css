@@ -61,11 +61,18 @@ p1{
 
 @media(min-width: 768px) and (max-width: 991px)
 {
-	p1{
-		width: 45%;
-		float:left;
+	#para1
+	{
+		width:50%;
 	}
-}
+	#para2
+	{
+		width:50%;
+	}
+	#para3
+	{
+		width:100%;
+	}
 
 
 }
