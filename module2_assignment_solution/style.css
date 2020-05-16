@@ -1,0 +1,90 @@
+<style>
+{
+	box-sizing: border-box;
+}
+p1{
+	margin:10px;
+	width:31%;
+	background-color: grey;
+	border-color: black;
+	float:left;
+	padding-left: 10px;
+}
+#h1
+{
+	text-align:right;
+	margin:0;
+}
+
+#h1 span{
+	background-color: maroon;
+	border-left: black;
+	border-bottom: black;
+	padding-left:40px;
+	padding-right:40px;
+}
+#h2
+{
+	text-align:right;
+	margin:0;
+}
+
+#h2 span{
+	background-color: blue;
+	border-left: black;
+	border-bottom: black;
+	padding-left:40px;
+	padding-right:40px;
+}
+#h3
+{
+	text-align:right;
+	margin:0;
+}
+
+#h3 span{
+	background-color: green;
+	border-left: black;
+	border-bottom: black;
+	padding-left:40px;
+	padding-right:40px;
+}
+
+@media(min-width: 992px)
+{
+	p1{
+		width:30%;
+		float:left;
+	}
+}
+
+
+@media(min-width: 768px) and (max-width: 991px)
+{
+	p1{
+		width: 45%;
+		float:left;
+	}
+}
+#para3{
+	width:92%;
+}
+
+
+}
+@media(max-width: 767px)
+{
+	#para1
+	{
+		width:100%;
+	}
+	#para2
+	{
+		width:100%;
+	}
+	#para3
+	{
+		width:100%;
+	}
+
+}</style>
